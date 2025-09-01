@@ -79,7 +79,7 @@ Leitor:
 
 Consultar disponibilidade de livro.
 
-Realizar empréstimo/devolução (presencialmente, assistido pelo bibliotecário).
+Realizar empréstimo/devolução.
 
 Sistema de Notificação (opcional):
 
